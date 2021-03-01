@@ -28,3 +28,15 @@ I'm currently working on web application with React, React-Redux, React-Hooks, T
      - figma
    
 ***
+
+#### My icon named in "F.A.B.E" which stands for  my own four principles.
+
+ :ballot_box_with_check: F ··· Facilitate 　🤝
+
+ :ballot_box_with_check:  A ··· Auspicous　:four_leaf_clover:
+
+ :ballot_box_with_check:  B ··· Bravery　:lion:
+
+ :ballot_box_with_check:  E ··· Expansion 　:globe_with_meridians:
+
+##### Furtermore, " F.A.B.E " based on my Japanese name of Mandarin charactor,  also comes from " faber " which means " creator " in Latin, thus, I'm a creator in fields of IT.
