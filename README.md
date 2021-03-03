@@ -5,7 +5,7 @@
 [Portfolio](https://individual-portfolio-git-main.yusukeyoshihiro.vercel.app/)
 ***
 
-I'm currently working on web application with React, React-Redux, React-Hooks, TypeScript, MERN staks.
+I'm currently working on web development with React, React-Redux, React-Hooks, TypeScript, MERN staks.
 
 - Skills
   - languages
