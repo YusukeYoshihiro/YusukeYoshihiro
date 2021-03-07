@@ -31,6 +31,7 @@ I'm currently working on web development with React, React-Redux, React-Hooks, T
 ![Screen Shot 2020-12-17 at 5 13 26 AM](https://user-images.githubusercontent.com/58486430/110245805-9a071f00-7f19-11eb-807b-7e9eda3b8a5a.png)
 
 
+#### I'm a hockey lover. 
 #### My icon named in "F.A.B.E" which stands for  my own four principles.
 
  :ballot_box_with_check:  F ··· Facilitation 　🤝
