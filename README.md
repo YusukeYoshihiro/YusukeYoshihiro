@@ -34,7 +34,7 @@ I'm currently working on web development with React, React-Redux, React-Hooks, T
 #### I'm a hockey lover. 
 #### My icon named in "F.A.B.E" which stands for  my own four principles.
 
- :ballot_box_with_check:  F ··· Facilitation 　🤝
+ :ballot_box_with_check:  &:nbsp; F ··· Facilitation 　🤝
 
  :ballot_box_with_check:  A ··· Auspicous　:four_leaf_clover:
 
@@ -42,4 +42,4 @@ I'm currently working on web development with React, React-Redux, React-Hooks, T
 
  :ballot_box_with_check:  E ··· Expansion 　:globe_with_meridians:
 
-##### Furthermore, " F.A.B.E " based on my Japanese name of Mandarin characters, also comes from " Faber " which means "creator" in Latin. Thus, I'm a creator in the fields of IT.
+##### Furthermore, " F.A.B.E " is based on my Japanese name of Mandarin characters, also comes from " Faber " which means "creator" in Latin. Thus, I'm a creator in the fields of IT.
