@@ -28,7 +28,8 @@ I'm currently working on web development with React, React-Redux, React-Hooks, T
      - figma
    
 ***
-![Screen Shot 2020-12-17 at 5 13 26 AM](https://user-images.githubusercontent.com/58486430/110245805-9a071f00-7f19-11eb-807b-7e9eda3b8a5a.png)
+![FABE_logo_secondo](https://user-images.githubusercontent.com/58486430/112737244-3075a180-8f16-11eb-9e1b-7f6eab1242e8.png)
+
 
 
 #### I'm a hockey lover. 
