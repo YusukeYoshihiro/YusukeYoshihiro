@@ -25,7 +25,10 @@ I'm currently working on web development with React, React-Redux, React-Hooks, T
  ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
  ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
  ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
- 
+ ![](https://aleen42.github.io/badges/src/photoshop.svg)
+ ![](https://aleen42.github.io/badges/src/illustrator.svg)
+  
+    
 - Skills
   - languages
     - HTML
