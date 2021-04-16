@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=YusukeYoshihiro&color=red)
+![](https://komarev.com/ghpvc/?username=YusukeYoshihiro&color=green)
 
 ### Hi there 👋
 ### I'm Yusuke, Frontend Developer based in vancouver.🇨🇦💻
