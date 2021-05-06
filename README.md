@@ -31,25 +31,28 @@ I'm currently working on web development with React, React-Redux, React-Hooks, T
     
 - Skills
   - Proficiency - Javascript(ES6), ReactJS, Redux, Typescript, styled-components , SCSS/SASS, HTML5/CSS3, responsible design
+  
+
+Frameworks & Libraries 
+Other Skills - 
+
 
   - languages
-    - HTML
-    - CSS
-    - SCSS/SASS
-    - JavaScript(ES6)
-    - Typescript
-  - Frontend Frameworks & libraries
-     - React.js/ React-Redux/ React-Hooks
-     - Styled-Components
-     - Chart.js
+    - HTML, CSS, SCSS/SASS, JavaScript (ES6), Typescript, JAVA, PHP
+  - Frameworks & libraries
+    - React, 
+    - React-Redux, 
+    - React-Hooks, 
+    - Typescript, 
+    - styled-components, 
+    - Bootstrap5, 
+    - jQuery, 
+    - Node.js/Express.js, 
+    - ChartJS, 
+    - Wordpress
   - Other
-     - Node.js/ Express.js
-     - firebase
-     - mongoDB
-     - Heroku
-     - Git
-     - XD
-     - figma
+    - MySQL, CI/CD, Git/CLI, AJAX, API/JSON, RESTful API, GraphQL, Figma, XD, Illustrator, PhotoShop, MongoDB, Firebase, AWS
+    
    
 ***
 ![FABE_logo_secondo](https://user-images.githubusercontent.com/58486430/112737244-3075a180-8f16-11eb-9e1b-7f6eab1242e8.png)
