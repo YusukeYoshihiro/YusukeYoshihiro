@@ -30,6 +30,8 @@ I'm currently working on web development with React, React-Redux, React-Hooks, T
   
     
 - Skills
+  - Proficiency - Javascript(ES6), ReactJS, Redux, Typescript, styled-components , SCSS/SASS, HTML5/CSS3, responsible design
+
   - languages
     - HTML
     - CSS
