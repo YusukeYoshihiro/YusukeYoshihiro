@@ -70,4 +70,4 @@ Other Skills -
 
  :ballot_box_with_check:  E ··· Expansion 　:globe_with_meridians:
 
-##### Furthermore, " F.A.B.E " is based on my Japanese name of Mandarin characters, also comes from " Faber " which means "creator" in Latin. Thus, I'm a creator in the fields of IT.
+##### Furthermore, " F.A.B.E " is based on my Japanese name of Kanji, also comes from " Faber " which means "creator" in Latin. Thus, I'm a creator in the fields of IT.
