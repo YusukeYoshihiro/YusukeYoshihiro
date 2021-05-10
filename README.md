@@ -4,7 +4,7 @@
 ### I'm Yusuke, Frontend Developer based in vancouver.🇨🇦💻
 [Linkedin](https://www.linkedin.com/in/yusuke-yoshihiro-ab46491b2/)
 
-[Portfolio](https://individual-portfolio-git-main.yusukeyoshihiro.vercel.app/)
+[Portfolio](https://yusukeyoshihiro.com/)
 ***
 
 I'm currently working on web development with React, React-Redux, React-Hooks, TypeScript, MERN staks.
