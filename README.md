@@ -30,7 +30,7 @@ I'm currently working on web development with React, React-Redux, React-Hooks, T
   
     
 - Skills
-  - Proficiency - Javascript(ES6), ReactJS, Redux, Typescript, styled-components , SCSS/SASS, HTML5/CSS3, responsible design
+  - Proficiency - Javascript, React.js, Redux, Typescript, styled-components , SCSS/SASS, HTML/CSS, Responsible design
   
 
 Frameworks & Libraries 
@@ -40,18 +40,15 @@ Other Skills -
   - languages
     - HTML, CSS, SCSS/SASS, JavaScript (ES6), Typescript, JAVA, PHP
   - Frameworks & libraries
-    - React, 
-    - React-Redux, 
-    - React-Hooks, 
-    - Typescript, 
+    - React.js, 
+    - Redux, 
+    - jQuery, 
     - styled-components, 
     - Bootstrap5, 
-    - jQuery, 
     - Node.js/Express.js, 
-    - ChartJS, 
-    - Wordpress
+    - Chart.js
   - Other
-    - MySQL, CI/CD, Git/CLI, AJAX, API/JSON, RESTful API, GraphQL, Figma, XD, Illustrator, PhotoShop, MongoDB, Firebase, AWS
+    - MySQL, CI/CD, Git/CLI, AJAX, API/JSON, RESTful API, GraphQL, Figma, XD, Illustrator, PhotoShop, MongoDB, Firebase, Wordpress, AWS
     
    
 ***
