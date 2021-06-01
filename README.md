@@ -42,11 +42,12 @@ Other Skills -
   - Frameworks & libraries
     - React.js, 
     - Redux, 
+    - Next.js
     - jQuery, 
     - styled-components, 
     - Bootstrap5, 
     - Node.js/Express.js, 
-    - Chart.js
+    - Chart.js/D3.js
   - Other
     - MySQL, CI/CD, Git/CLI, AJAX, API/JSON, RESTful API, GraphQL, Figma, XD, Illustrator, PhotoShop, MongoDB, Firebase, Wordpress, AWS
     
