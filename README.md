@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=YusukeYoshihiro&color=green)
 
 ### Hi there 👋
-### I'm Yusuke, Frontend Developer based in vancouver.🇨🇦💻
+### I'm Yusuke, Frontend Developer based in Tokyo.🇯🇵💻
 [Linkedin](https://www.linkedin.com/in/yusuke-yoshihiro-ab46491b2/)
 
 [Portfolio](https://yusukeyoshihiro.com/)
