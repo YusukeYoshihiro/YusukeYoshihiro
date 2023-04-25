@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=YusukeYoshihiro&color=green)
 
 ### Hi there 👋
-### I'm Yusuke, Frontend Developer based in Tokyo.🇯🇵💻
+### I'm Yusuke, WEB Application Developer based in Tokyo.🇯🇵💻
 [Linkedin](https://www.linkedin.com/in/yusuke-yoshihiro-ab46491b2/)
 
 [Portfolio](https://yusukeyoshihiro.com/)
@@ -30,7 +30,7 @@ I'm currently working on web development with React, React-Redux, React-Hooks, T
   
     
 - Skills
-  - Proficiency - Javascript, React.js, Redux, Typescript, styled-components , SCSS/SASS, HTML/CSS, Responsible design
+  - Javascript, React.js, React-Hooks, Redux, Typescript, styled-components , SCSS/SASS, TailwindCSS ,HTML/CSS, Responsible design
   
 
 Frameworks & Libraries 
