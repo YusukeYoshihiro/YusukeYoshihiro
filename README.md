@@ -38,20 +38,17 @@ Other Skills -
 
 
   - languages
-    - HTML, CSS, SCSS/SASS, JavaScript (ES6), Typescript, JAVA, PHP
+    - HTML, CSS, SCSS/SASS, JavaScript (ES6), Typescript, PHP
   - Frameworks & libraries
     - React.js, 
     - Redux, 
     - Next.js
-    - jQuery, 
-    - styled-components, 
-    - Bootstrap5, 
+    - Laravel
+    - Bootstrap, 
     - Node.js/Express.js, 
-    - Chart.js/D3.js
   - Other
-    - MySQL, CI/CD, Git/CLI, AJAX, API/JSON, RESTful API, GraphQL, Figma, XD, Illustrator, PhotoShop, MongoDB, Firebase, Wordpress, AWS
+    - MySQL, Git/CLI, AJAX, API/JSON, RESTful API, MongoDB, Firebase, AWS
     
-   
 ***
 ![FABE_logo_secondo](https://user-images.githubusercontent.com/58486430/112737244-3075a180-8f16-11eb-9e1b-7f6eab1242e8.png)
 
