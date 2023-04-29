@@ -21,14 +21,21 @@ Other Skills -
 
 
   - languages
-    - HTML, CSS, SCSS/SASS, JavaScript (ES6), Typescript, PHP
+    - HTML
+    - CSS
+    - JavaScript, 
+    - Typescript, 
+    - PHP
   - Frameworks & libraries
-    - React.js, 
-    - Redux, 
+    - React.js
+    - Redux
     - Next.js
     - Laravel
-    - Bootstrap, 
-    - Node.js/Express.js, 
+    - Node.js/Express.js
+    - Bootstrap
+    - SCSS/SASS 
+    - styled-components
+    - tailwindcss
   - Other
     - MySQL, Git/CLI, AJAX, API/JSON, RESTful API, MongoDB, Firebase, AWS
     
