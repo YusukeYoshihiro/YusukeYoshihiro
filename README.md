@@ -12,12 +12,8 @@ I'm currently working on web development with React, React-Redux, React-Hooks, T
  [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,jquery,styledcomponents,tailwindcss,bootstrap,react,redux,nextjs,vue,typescript,nodejs,express,php,laravel,mysql,mongodb,aws,git,github,bitbucket)](https://skillicons.dev)
   
     
-- Skills
-  - Javascript, React.js, React-Hooks, Redux, Typescript, styled-components , SCSS/SASS, TailwindCSS ,HTML/CSS, Responsible design
-  
-
-Frameworks & Libraries 
-Other Skills - 
+- Frameworks & Libraries 
+ -Other Skills - 
 
 
   - languages
