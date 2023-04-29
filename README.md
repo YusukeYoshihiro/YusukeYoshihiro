@@ -9,7 +9,7 @@
 
 I'm currently working on web development with React, React-Redux, React-Hooks, TypeScript, MERN staks, Laravel.
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,styledcomponents,tailwindcss,react,redux,nextjs,vue,typescript,nodejs,express,php,laravel,mysql,mongodb,aws,git,github,bitbucket)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,jquery,styledcomponents,tailwindcss,bootstrap,react,redux,nextjs,vue,typescript,nodejs,express,php,laravel,mysql,mongodb,aws,git,github,bitbucket)](https://skillicons.dev)
   
     
 - Skills
