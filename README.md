@@ -7,7 +7,7 @@
 [Portfolio](https://yusukeyoshihiro.com/)
 ***
 
-I'm currently working on web development with React, React-Redux, React-Hooks, TypeScript, MERN staks, Laravel.
+I'm currently working on web development with React, React-Redux, React-Hooks, Next.js, TypeScript, MERN staks, Laravel.
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,jquery,styledcomponents,tailwindcss,bootstrap,react,redux,nextjs,vue,typescript,nodejs,express,php,laravel,mysql,mongodb,aws,git,github,bitbucket)](https://skillicons.dev)
 
